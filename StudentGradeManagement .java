@@ -127,7 +127,7 @@ public class StudentGradeManagement
                     }
 
                     break;
-
+                //exit
                 case 5:
 
                     System.out.println("Program Terminated.");
