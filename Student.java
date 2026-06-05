@@ -1,3 +1,4 @@
+//student class to represent a student with id, name, and marks
 public class Student
 {
     private int studentId;
