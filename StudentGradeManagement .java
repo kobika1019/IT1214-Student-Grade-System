@@ -24,6 +24,7 @@ public class StudentGradeManagement
 
             switch(choice)
             {
+                //add student
 				 case 1:
 
 				System.out.print("Enter Student ID: ");
