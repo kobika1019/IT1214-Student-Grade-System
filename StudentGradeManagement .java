@@ -63,6 +63,7 @@ public class StudentGradeManagement
 
 				break;
 
+                //display all students
                 case 2:
 
                     if(students.isEmpty())
@@ -79,7 +80,7 @@ public class StudentGradeManagement
                         }
                     }
                     break;
-
+                //search student by id
                 case 3:
 
                     System.out.print("Enter Student ID to Search: ");
